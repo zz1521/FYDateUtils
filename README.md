@@ -1,8 +1,6 @@
 # FYDateUtils
 时间转中文工具-Swift
 
-时间转中文工具-Swift
-
 ```swift
        
 //根据时间转换
